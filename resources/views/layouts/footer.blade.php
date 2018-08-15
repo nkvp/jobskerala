@@ -1,4 +1,4 @@
 <footer>
     &copy; {{ date('Y') }}
-    Created by <a href="http://www.jobskerala.org/" target="_blank">Jobs Kerala</a>. Follow us on <a href="https://github.com/nkvp/jobskerala" target="_blank">Github</a>.
+    Created by <a href="http://jobskerala.org/" target="_blank">Jobs Kerala</a>.
 </footer>

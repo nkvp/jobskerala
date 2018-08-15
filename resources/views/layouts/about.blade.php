@@ -10,7 +10,7 @@
         </div>
         <div class="col-sm-4">
             <h3>Suggest improvements</h3>
-            <p>This code is <a href="https://github.com/nkvp/jobskerala" target="_blank">open source</a>, so if you have an idea for making it better, just let us know. You can download the code and run it on your own servers or make a pull request to improve it.</p>
+            <p>If you have an idea for making it better, just let us know. </p>
         </div>
     </div>
 </div>
