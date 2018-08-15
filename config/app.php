@@ -12,8 +12,8 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'JobsToMail',
-    'description' => 'Your personal job-search assistant',
+    'name' => 'Jobs Kerala',
+    'description' => 'Your personal job-search assistant for jobs within and outside Kerala',
     'ga_tracking_id' => env('GA_TRACKING_ID', null),
     'max_searches' => env('MAX_SEARCHES', 5),
 

@@ -22,16 +22,16 @@
                     <img class="h-100" src="/img/githubjobs.png" alt="Github jobs">
                 </a>
             </div>
-            <div class="col-md-4 col-sm-12">
+            <!--<div class="col-md-4 col-sm-12">
                 <a class="jobtomail-provider" href="http://search.digitalgov.gov/" title="Government jobs"> 
                     <img class="h-100" src="/img/governmentjobs.png" alt="Government jobs">
                 </a>
-            </div>
-            <div class="col-md-4 col-sm-12">
+            </div>-->
+            <!--<div class="col-md-4 col-sm-12">
                 <a class="jobtomail-provider" href="http://careers.ieee.org/" title="IEEE Jobs">
                     <img class="h-100" src="/img/ieee.png" alt="IEEE">
                 </a>
-            </div>
+            </div>-->
             <div class="col-md-4 col-sm-12">
                 <a class="jobtomail-provider" href="http://www.indeed.com/" title="Indeed"> 
                     <img class="h-100" src="/img/indeed.png" alt="Indeed">
@@ -62,14 +62,19 @@
                     <img class="h-100" src="/img/stackoverflow.png" alt="StackOverflow">
                 </a>
             </div>
-            <div class="col-md-4 col-sm-12">
+            <!--<div class="col-md-4 col-sm-12">
                 <a class="jobtomail-provider" href="https://www.usajobs.gov/" title="USAJobs"> 
                     <img class="h-100" src="/img/usajobs.png" alt="USAJobs">
                 </a>
-            </div>
-            <div class="col-md-4 col-sm-12">
+            </div>-->
+            <!--<div class="col-md-4 col-sm-12">
                 <a class="jobtomail-provider" href="https://www.ziprecruiter.com/" title="Ziprecruiter"> 
                     <img class="h-100" src="/img/ziprecruiter.png" alt="Ziprecruiter">
+                </a>
+            </div>-->
+            <div class="col-md-4 col-sm-12">
+                <a class="jobtomail-provider" href="#" title="More to be updated">
+                    <img class="h-100" src="/img/more.png" alt="More to be updated">
                 </a>
             </div>
         </div>

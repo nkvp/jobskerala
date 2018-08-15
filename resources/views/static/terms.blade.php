@@ -5,17 +5,17 @@
 @section('content')
 <div class="row terms">
     <div class="col-md-8 offset-md-2">
-        <h1 class="page-header">JobsToMail Terms of Service and Privacy Policy</h1>
+        <h1 class="page-header">Jobs Kerala Terms of Service and Privacy Policy</h1>
 
         <h3>1. Terms</h3>
 
-        <p>By accessing the website at&nbsp;<a href="http://www.jobstomail.com">http://www.jobstomail.com</a>, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</p>
+        <p>By accessing the website at&nbsp;<a href="http://www.jobskerala.org">http://www.jobskerala.org</a>, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</p>
 
         <h3>2. Use License</h3>
 
         <ol type="a">
             <li>
-                Permission is granted to download the source materials (information or software) on JobsToMail's website for any use. This project is open source and licensed under the <a href="https://github.com/jobapis/jobs-to-mail/blob/master/license.md" target="_blank">Apache 2.0 license.</a> You may do anything with this site except the following:
+                Permission is granted to download the source materials (information or software) on Jobs Kerala's website for any use. This project is open source and licensed under the <a href="https://github.com/jobapis/jobs-to-mail/blob/master/license.md" target="_blank">Apache 2.0 license.</a> You may do anything with this site except the following:
 
                 <ol type="i">
                     <li>attempt to access or download the raw user data from the database;</li>
@@ -23,31 +23,31 @@
                     <li>transfer the materials to another person or "mirror" the materials on any other server without attribution.</li>
                 </ol>
             </li>
-            <li>This license shall automatically terminate if you violate any of these restrictions and may be terminated by JobsToMail at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</li>
+            <li>This license shall automatically terminate if you violate any of these restrictions and may be terminated by Jobs Kerala at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</li>
         </ol>
 
         <h3>3. Disclaimer</h3>
 
         <ol type="a">
-            <li>The materials on JobsToMail's website are provided on an 'as is' basis. JobsToMail makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</li>
-            <li>Further, JobsToMail does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</li>
+            <li>The materials on Jobs Kerala's website are provided on an 'as is' basis. Jobs Kerala makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</li>
+            <li>Further, Jobs Kerala does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</li>
         </ol>
 
         <h3>4. Limitations</h3>
 
-        <p>In no event shall JobsToMail or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on JobsToMail's website, even if JobsToMail or a JobsToMail authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>
+        <p>In no event shall Jobs Kerala or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Jobs Kerala's website, even if Jobs Kerala or a Jobs Kerala authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>
 
         <h3>5. Accuracy of materials</h3>
 
-        <p>The materials appearing on JobsToMail's website could include technical, typographical, or photographic errors. JobsToMail does not warrant that any of the materials on its website are accurate, complete or current. JobsToMail may make changes to the materials contained on its website at any time without notice. However JobsToMail does not make any commitment to update the materials.</p>
+        <p>The materials appearing on Jobs Kerala's website could include technical, typographical, or photographic errors. Jobs Kerala does not warrant that any of the materials on its website are accurate, complete or current. Jobs Kerala may make changes to the materials contained on its website at any time without notice. However Jobs Kerala does not make any commitment to update the materials.</p>
 
         <h3>6. Links</h3>
 
-        <p>JobsToMail has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by JobsToMail of the site. Use of any such linked website is at the user's own risk.</p>
+        <p>Jobs Kerala has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Jobs Kerala of the site. Use of any such linked website is at the user's own risk.</p>
 
         <h3>7. Modifications</h3>
 
-        <p>JobsToMail may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.</p>
+        <p>Jobs Kerala may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.</p>
 
         <h3>8. Governing Law</h3>
 
@@ -57,7 +57,7 @@
 
         <p>Your privacy is important to us.</p>
 
-        <p>It is JobsToMail's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.</p>
+        <p>It is Jobs Kerala's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.</p>
 
         <ul>
             <li>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</li>
@@ -69,7 +69,7 @@
             <li>We will only retain personal information for as long as necessary for the fulfilment of those purposes.</li>
         </ul>
 
-        <p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. JobsToMail may change this privacy policy from time to time at JobsToMail's sole discretion.</p>
+        <p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Jobs Kerala may change this privacy policy from time to time at Jobs Kerala's sole discretion.</p>
         <small>Genereated by <a href="http://getterms.io/" target="_blank">GetTerms.io</a>.</small>
     </div>
 </div>
