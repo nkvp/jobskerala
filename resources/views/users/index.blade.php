@@ -21,11 +21,11 @@
             </div>
             <div class="form-group">
                 <label for="keyword">Search Term</label>
-                <input type="text" name="keyword" class="form-control" placeholder="Software engineering" required/>
+                <input type="text" name="keyword" class="form-control" placeholder="Software Engineer" required/>
             </div>
             <div class="form-group">
                 <label for="location">Location</label>
-                <input type="text" name="location" class="form-control" placeholder="Chicago, IL" required/>
+                <input type="text" name="location" class="form-control" placeholder="Cochin, Kerala" required/>
             </div>
 
             @include('users.components.no-recruiters-checkbox')
